@@ -58,7 +58,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    This is my JSP page with easyui .  <br>
+    This is my JSP page with easyui . aaaa <br>
     
      <%--使用纯html的方式创建创建EasyUI的Dialog的步骤：
       1、定义一个div
